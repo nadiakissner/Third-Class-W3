@@ -11,5 +11,8 @@ h1 {
 p {
     color: #444;
     background-color: #ffffff;
+}
 
+img {
+    width: 50%;
 }
